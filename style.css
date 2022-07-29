@@ -1,0 +1,106 @@
+.pic{
+
+}
+nav{
+    background-color: #9e0059;
+   color:black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bolder;
+}
+a:hover{
+    background-color:black;
+    color: #9e0059;
+}
+.profile{
+    text-align: center;
+    display: flex
+}
+.container{
+    margin: 0 auto;
+    position: relative;
+    display: block;   
+}
+body{
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+background-color: #b5838d;
+}
+ button{
+    background-color:#b5838d;
+   border: 2px solid black;
+    color: black;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: #9e0059;
+
+}
+
+
+.projects{
+    display: flex;
+}
+footer{
+    background-color: #9e0059;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+}
+ img{
+    border: 1px solid transparent;
+    border-radius: 10.25em;
+    width: 60%;
+}
+.profile{
+    width: 65%;
+
+}
+.pic{
+    border: 1px solid transparent;
+    border-radius: 6.25em;
+    width: 60%;
+    height: 150px;
+}
+h2{
+    text-align: center;
+}
+h4{
+    background-color: #9e0059;
+    text-align: center;
+    padding: 10px;
+    border-radius: 200px;
+}
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      background-color: black;
+      color:white;
+  }
+  .fa-facebook{
+      color: black;
+  }
+  .fa-twitter{
+      color: black;
+
+  }
+  .fa-github{
+      color: black;
+
+  }
+  .fa-linkedin{
+      color: black;
+
+  }
+  .fa-instagram{
+    background-color:  rgb(38, 144, 243);
+    color: black;
+  }
